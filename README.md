@@ -9,3 +9,7 @@
 <br>
 ### 2.googlenet最高准确率<br>
 <br>![image](https://github.com/lianzhenghust/cnn/blob/master/Googlenet/best_acc.PNG)
+<br>
+<br>
+### SEnet + Resnet<br>
+<br>![image](https://github.com/lianzhenghust/cnn/blob/master/se_resnet164/compare.svg)
